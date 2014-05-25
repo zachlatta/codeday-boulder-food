@@ -8,6 +8,7 @@ python NWPlayer123Order.py
 ./a.out 
 brainfuck Dylan.bfck
 ./eunice
+node chris.js
 
 
 rm ./a.out
