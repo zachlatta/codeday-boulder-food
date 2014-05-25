@@ -14,4 +14,4 @@ node chris.js
 
 rm ./a.out
 rm ./eunice
-rm ./kc
+rm ./kc ./KC.hi ./KC.o
