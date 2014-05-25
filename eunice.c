@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("Eunice-6 Taquitos with Guacamole, Sour Cream, Cheese, Corn Salsa (on the side).");
+	printf("Eunice-6 Taquitos with Guacamole, Sour Cream, Cheese, Corn Salsa (on the side).\n");
 	return 0;
 }
