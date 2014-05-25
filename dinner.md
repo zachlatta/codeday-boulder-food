@@ -1,12 +1,22 @@
 # Dinner
 
-All - Chips and Queso
+### Sharing is Caring
+Chips and Queso.
 
-<h3>Dylan</h3>
+### Dylan
 Basic Nachos.
-<h3>Chris</h3>
+
+### Chris
 Chicken Burritto.
-Eunice - Eunice- 6 taquitos with Guacamole, Sour cream, Cheese, Corn salsa (on the side)
-Nick P. - Cheese Quesadilla and a side of sour cream.
-KC - Steak and Kawaii Potato
-Stefan - Chicken pesto burrito NO BEANS with lettus, sour cream, and cheese...
+
+### Eunice
+6 Taquitos with Guacamole, Sour Cream, Cheese, Corn Salsa (on the side).
+
+### Nick P.
+Cheese Quesadilla and a Side of Sour Cream.
+
+### KC
+Steak and Kawaii Potato
+
+### Stefan
+Chicken Pesto Burrito **NO BEANS** with Lettuce, Sour Cream, and Cheese...
