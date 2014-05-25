@@ -11,6 +11,7 @@ brainfuck Dylan.bfck
 ./eunice
 node chris.js
 ./kc
+lci Colinfoodz.LOL
 
 rm ./a.out
 rm ./eunice
