@@ -1,5 +1,6 @@
 #codeday-boulder-food
 ====================
 ##Contributing Guidlines
-All contributions must follow this format:
-Name - Food order
+Add your orders in the same format that all previous orders are in.
+
+Bon appetite.
