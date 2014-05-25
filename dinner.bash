@@ -2,6 +2,7 @@
 
 g++ stefan.cpp
 gcc eunice.c -o eunice
+ghc -o kc KC.hs
 
 go run zach.go
 python NWPlayer123Order.py
@@ -9,7 +10,8 @@ python NWPlayer123Order.py
 brainfuck Dylan.bfck
 ./eunice
 node chris.js
-
+./kc
 
 rm ./a.out
 rm ./eunice
+rm ./kc
