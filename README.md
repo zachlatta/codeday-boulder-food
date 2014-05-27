@@ -18,6 +18,23 @@ Armstrong. Louis Armstrong was different than Lance Armstrong, though the both
 probably enjoyed music. Lance Armstrong admitted to drug usage. He inspired us
 and made us sad. El endo.
 
+## Usage
+
+Prerequisites:
+
+* Python
+* Go
+* Haskell
+* GCC
+* G++
+* Node
+* [LOLCODE](https://github.com/justinmeza/lci)
+* [Brainfuck](https://github.com/shurizzle/brainfuck)
+
+Once you have all of those:
+
+    $ ./dinner.bash
+
 ## Contributing Guidlines
 
 Add your orders in the same format that all previous orders are in.
