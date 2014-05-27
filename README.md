@@ -1,4 +1,4 @@
-#codeday-boulder-food ![Analytics](https://ga-beacon.appspot.com/UA-34529482-6/codeday-boulder-food/readme?pixel)
+# CodeDay Boulder Food ![Analytics](https://ga-beacon.appspot.com/UA-34529482-6/codeday-boulder-food/readme?pixel)
 
 Hi!
 
@@ -18,9 +18,9 @@ Armstrong. Louis Armstrong was different than Lance Armstrong, though the both
 probably enjoyed music. Lance Armstrong admitted to drug usage. He inspired us
 and made us sad. El endo.
 
-##Contributing Guidlines
+## Contributing Guidlines
 
 Add your orders in the same format that all previous orders are in.
 
 **Bon appetite.**
-**Made with ♥ by Boulder hackers.**
+**Made with ♥ by CodeDay Boulder hackers.**
