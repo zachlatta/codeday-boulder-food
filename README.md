@@ -35,7 +35,7 @@ Once you have all of those:
 
     $ ./dinner.bash
 
-## Contributing Guidlines
+## Contributing Guidelines
 
 Add your orders in the same format that all previous orders are in.
 
